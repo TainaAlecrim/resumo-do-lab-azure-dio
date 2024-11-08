@@ -1,4 +1,4 @@
-# Resumo lab azure
+# Introdução a computação em nuvem
 
 
 Para criar uma conta gratuita na azure precisa acessar o link: azure.microsoft.com e clicar em experimente a Azure gratuitamente. Depois vai ser direcinado para uma tela de cadastro, onde vai pedir seu cartão e dados pessoais.   Depois de criado com sucesso, tera acesso para portal azure. 
