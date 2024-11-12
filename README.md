@@ -33,7 +33,7 @@ Governança - Auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que 
 Gerenciabilidade - Um dos principais benefícios da computação em nuvem são as opção de capacidade de gerenciamento. 
 
 
-#Tipos de serviço de nuvem
+# Tipos de serviço de nuvem
 
 IaaS - Infra como serviço
  - Liberdade para trabalhar
