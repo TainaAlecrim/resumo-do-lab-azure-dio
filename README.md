@@ -36,11 +36,11 @@ Gerenciabilidade - Um dos principais benefícios da computação em nuvem são a
 # Tipos de serviço de nuvem
 
 IaaS - Infra como serviço
- - Liberdade para trabalhar
+	Liberdade para trabalhar
 PaaS - Plataforma como serviço
- - Ferramenta de desenvolvedores, analise de negocio
+	Ferramenta de desenvolvedores, analise de negocio
 SaaS - Descrever software como serviço
- - Aplicativos/apps hospedados
+	Aplicativos/apps hospedados
 
 Modelo de responsabilidade compartilhada
 
