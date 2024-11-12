@@ -13,4 +13,25 @@ CapEx:
 OpEx:
   São despesas operacionais diarias para manter o negocio.
 
+# Beneficios da nuvem
+
+Alta disponibilidade - o serviço que esta sempre disponível quando é necessário. Garantir a disponibilidade maxima, independente de interrupções ou eventos que possam ocorrer.
+
+Escalabilidade: trata-se a capacidade de ajustar recursos para atender a demanda. Escalar trata de adicionar mais recursos para lidar melhor com o aumento da demanda. Na escalabilidade você não esta pagando além do necessário pelos serviços, é pago apenas pelo que usa. 
+Com a escala vertical, você desenvolve um aplicativo e caso precise de mais capacidade, poderá escalar verticalmente para adicionar mais CPU ou RAM para a maquina.
+
+Elasticidade: Com ela você experimenta um salto repentino acentuado na demanda, seus recursos implantados poderão ser expandidos. 
+
+Confiabilidade - Como o design descentralizado, a nuvem naturalmente dá suporte a uma infra confiável e resiliente. Permite que seja implantado em varias regiões do mundo.
+Previsibilidade na nuvem permite que você avance com confiança, seja no desempenho ou no custo.
+
+Segurança - A nuvem oferece ferramentas de segurança que atendem a necessidade dis cliente mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente. 
+
+Governança - Auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação
+
+
+Gerenciabilidade - Um dos principais benefícios da computação em nuvem são as opção de capacidade de gerenciamento. 
+
+
+
 
